@@ -1,0 +1,41 @@
+{
+  "name": "Fatal Foxes #443",
+  "symbol": "FOX",
+  "description": "A Gang Of Fatal Foxes Wrecking Havoc Across Solana",
+  "seller_fee_basis_points": 200,
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://arweave.net/tJlkFIFZ1i39SBRQoXGs5IP_fi3j6iMCnmSMTwRL_T0",
+  "attributes": [
+   {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Mutant"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Alien"
+    }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+}
